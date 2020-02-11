@@ -22,9 +22,9 @@
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@ckeditor/ckeditor5-build-classic": "^12.0.0",
-    "@ckeditor/ckeditor5-dev-env": "^15.0.0",
-    "@ckeditor/ckeditor5-dev-utils": "^11.0.1",
+    "@ckeditor/ckeditor5-build-classic": "github:wojciechkoszyk/ckeditor5-build-classic",
+    "@ckeditor/ckeditor5-dev-env": "github:wojciechkoszyk/ckeditor5-dev/packages/ckeditor5-dev-env",
+    "@ckeditor/ckeditor5-dev-utils": "github:wojciechkoszyk/ckeditor5-dev/packages/ckeditor5-dev-utils",
     "babel-loader": "^8.0.5",
     "chai": "^4.1.2",
     "enzyme": "^3.3.0",
